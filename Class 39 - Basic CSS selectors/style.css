@@ -1,0 +1,19 @@
+body{
+    font-family: monospace;
+    background-color: black;
+}
+
+#main-heading{
+    background-color: rgb(99, 85, 85);
+    color: white;
+}
+
+#main-section{
+    background-color: darkslategray;
+    color: white;
+}
+
+p{
+    color: azure;
+    background-color: brown;
+}
