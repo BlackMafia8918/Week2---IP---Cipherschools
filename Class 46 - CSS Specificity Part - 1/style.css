@@ -1,0 +1,30 @@
+/* inline style attribute > id selector > class selector > element selector */
+
+/* Element Selector */
+
+h1{
+    color: green;
+}
+
+/* Class Selector */
+
+h1.heading{
+    color: magenta;
+}
+
+.h1class{
+    color: red;
+}
+
+/* ID Selector */
+
+/* 
+#h1id{
+    color: blue;
+} */
+
+
+/* Inline Style Attribute */
+
+/*  <h1 class="h1class" id="h1id" style="color: red;">  */
+
